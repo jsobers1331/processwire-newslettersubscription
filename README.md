@@ -51,7 +51,7 @@ You have to generate the link parameters depending on email and userAuthSalt.
   $options = array (
     'markup' => array(
       'InputfieldSelect' => array(
-        'item' : "{out}"
+        'item' => "{out}"
       )
     ),
     'classes' => array(
